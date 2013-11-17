@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Default is "World!"
+# This is an unwanted but committed change
 name = ARGV.first || 'World!'
 
 puts "Hello #{name}, nice to meet you"

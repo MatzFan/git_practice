@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# This is an unwanted but committed change
+# Proper comment here
 name = ARGV.first || 'World!'
 
 puts "Hello #{name}, nice to meet you"
